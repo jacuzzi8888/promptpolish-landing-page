@@ -1,6 +1,5 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* src/app/globals.css */
+@import "tailwindcss"; /* Use @import instead of @tailwind directives */
 
 :root {
   --background: #ffffff;
